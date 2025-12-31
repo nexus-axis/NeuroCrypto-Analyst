@@ -1,0 +1,5 @@
+{
+  "name": "NeuroCrypto Analyst",
+  "description": "An AI-powered cryptocurrency analysis dashboard capable of interpreting market data, analyzing chart screenshots, and visualizing trends using Gemini models.",
+  "requestFramePermissions": []
+}
